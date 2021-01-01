@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WDN | Swati Sirsant</title>
+    <link>https://swatisirsant.github.io/tag/wdn/</link>
+      <atom:link href="https://swatisirsant.github.io/tag/wdn/index.xml" rel="self" type="application/rss+xml" />
+    <description>WDN</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://swatisirsant.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>WDN</title>
+      <link>https://swatisirsant.github.io/tag/wdn/</link>
+    </image>
+    
+    <item>
+      <title>Assessing the Performance of Surrogate Measures for Water Distribution Network Reliability</title>
+      <link>https://swatisirsant.github.io/publication/article_2020_1/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/article_2020_1/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+This paper investigates the use of surrogate measures as potential substitutes for reliability in multiobjective design of water distribution networks (WDNs). Assessing WDN reliability with conventional hydraulic and mechanical reliability metrics may require substantial computational time and resources, which becomes more critical as the network size increases. Although the reliability surrogate measures (RSMs) such as entropy, resiliency, and network resilience may have computational benefits, they may perform differently under varying cases of hydraulic and mechanical failures. To account for both the reliabilities, this study proposed two indices that weight a combination of entropy and resiliency (CERI), and entropy and network resilience (CENRI) apart from the individual measures, and then assessed their performance via multiobjective design for three benchmark WDNs and also for a case study in India. The study adopted the EPANET 2 hydraulic simulator for extended period simulation (EPS) and nondominated sorting genetic algorithm- II (NSGA-II) for the multiobjective optimization of WDNs with maximization of RSMs (one at a time) and minimization of cost as two objectives. Hydraulic and mechanical reliabilities are estimated for the generated Pareto-optimal solutions to determine the association between each RSM and hydraulic/mechanical reliability. The numerical results of the study show that the proposed RSMs can serve as effective surrogate measures to account for hydraulic and mechanical reliability in the design of WDNs. The study recommends the use of CERI as a potential substitute for traditional hydraulic and mechanical reliability metrics to speed up the reliability computation and ensure reliable water supply for both branched and looped WDNs.
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>SaDE algorithm for reliability-based design of water distribution networks</title>
+      <link>https://swatisirsant.github.io/publication/article_2018_1/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/article_2018_1/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+Design of Water Distribution Networks (WDNs) is an NP hard problem, which is typically an optimization problem consisting  of  a  large  search  space  even  for  a  small  sized  WDN.  Design  of  a  robust  WDN  requires  consideration  of aspects such as reliability, resiliency etc., which further increases the complexity of the problem. This paper presents an  efficient  way  of reliability-baseddesign  of  WDNs  using  Self-adaptive  Differential  Evolution  (SaDE)  algorithm, which is an evolutionary optimization technique and animprovised version of the DE algorithm. The reliability of the WDNs  is  estimated  as  the  level  of  demand  satisfaction  considering  the  mechanical  failure  of  pipes.  Simulations  are performed  using  EPANET  for  generating  the  pressure  and  flow  values  using  demand  driven  analysis,  for  various failure and working conditions. The efficacy of the proposed approach is tested by applyingitto two WDN problems. A  thorough  comparison  is  made  between  the  performance  of  SaDE  and  DE  algorithms.  It  is  found  that  the  SaDE converges  much  faster  than  DE,  with  high  success  rate,  thus  making  it  a  more  preferable  option  for  solving  WDN design problems and for reliability-based design of WDNs.
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Examining resiliency and entropy as surrogate measures for hydraulic reliability estimation of water distribution networks</title>
+      <link>https://swatisirsant.github.io/publication/conf_2018_1/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/conf_2018_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability-based design of water distribution networks using self-adaptive differential evolution algorithm</title>
+      <link>https://swatisirsant.github.io/publication/article_2018_2/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/article_2018_2/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+This paper presents the application of Self-Adaptive Differential Evolution (SADE) algorithm for reliability-based design of Water Distribution Networks (WDNs). The algorithm is first applied and tested for deterministic design of various benchmark WDNs. Reliability-based design is then performed on the benchmark WDNs as well as real WDN in India by employing the SADE algorithm considering the uncertainty in nodal water demands. Monte Carlo simulation approach is used to incorporate the uncertainty in nodal demands; and pressure driven analysis is adopted for simulating the distribution of flows and pressures in pipe networks with the help of EPANET toolkit. A thorough comparison is made between the performance of SADE and DE methods. The results illustrate that SADE performs much better than DE since SADE converges faster with a higher success rate, making it a more preferable option for WDN design problem. The results of the study also illustrate that the optimal cost increases with increasing uncertainty level, but the percentage increase in cost is problem specific, which requires a robust tool for handling such complexities. The consistent results obtained by the application of SADE algorithm makes it a preferable option for reliability-based design of large WDNs including real world problems.
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multi-Objective Design of Water Distribution Networks using Resiliency as Reliability Surrogate</title>
+      <link>https://swatisirsant.github.io/publication/conf_2018_2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/conf_2018_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Objective Self-Adaptive Differential Evolution Algorithm for design of water distribution networks</title>
+      <link>https://swatisirsant.github.io/publication/conf_2017_1/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/conf_2017_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability-based design of water distribution networks considering mechanical failures</title>
+      <link>https://swatisirsant.github.io/publication/article_2017_1/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/article_2017_1/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+For effective design of Water Distribution Networks (WDNs), it is necessary to consider the reliability of the system subject  to  mechanical  and  hydraulic  failures.  In  this  paper,  a  reliability  based  framework  is  presented  for  design  of WDNs using self-adaptive differential evolution (SaDE) algorithm. The framework includes three main components:a  simulation  model,  a  reliability  assessment  model  and  an  optimization  model.  Simulation  model  uses  EPANET toolkit  for  simulation  of  flows  and  pressure  distribution  in  pipe  network,  and  its  outputs  are  used  in  reliability assessment  model  to  determine  the  minimum  cut  sets.  Reliability  assessment  model  consists  of  determination  of system and nodal reliabilities based on minimum cut sets. The reliability is estimated in terms of demand satisfaction subject  to  the  mechanical  failure  of  components.  The  optimization  model  finds  optimal  pipe  diameters  considering minimization  of  network  cost  as  objective  subject  to  a  minimum  level  of  reliability  and  other  constraints,  and  the model  is  solved  by  using  SaDE  algorithm.  The  application  of  model  is  illustrated  by  applying  it  to  a  hypothetical WDN  consisting  of  17  pipes,  13  nodes,  a  supply  source  and  a  pump.  On  comparison  of  the  results  of  study  with previous  studies,  it  is  found  that  the  present  framework  yields  in  better  solutions  and  saves  significant  amount  of computational time.
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reliability assessment of water distribution networks accounting for pipe failure</title>
+      <link>https://swatisirsant.github.io/publication/conf_2016_2/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/conf_2016_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining optimal location of isolation valves using self-adaptive differential evolution algorithm</title>
+      <link>https://swatisirsant.github.io/publication/conf_2016_1/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/conf_2016_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

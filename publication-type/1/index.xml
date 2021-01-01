@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Swati Sirsant</title>
+    <link>https://swatisirsant.github.io/publication-type/1/</link>
+      <atom:link href="https://swatisirsant.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://swatisirsant.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://swatisirsant.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Examining resiliency and entropy as surrogate measures for hydraulic reliability estimation of water distribution networks</title>
+      <link>https://swatisirsant.github.io/publication/conf_2018_1/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/conf_2018_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Objective Design of Water Distribution Networks using Resiliency as Reliability Surrogate</title>
+      <link>https://swatisirsant.github.io/publication/conf_2018_2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/conf_2018_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Objective Self-Adaptive Differential Evolution Algorithm for design of water distribution networks</title>
+      <link>https://swatisirsant.github.io/publication/conf_2017_1/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/conf_2017_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability assessment of water distribution networks accounting for pipe failure</title>
+      <link>https://swatisirsant.github.io/publication/conf_2016_2/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/conf_2016_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining optimal location of isolation valves using self-adaptive differential evolution algorithm</title>
+      <link>https://swatisirsant.github.io/publication/conf_2016_1/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/conf_2016_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

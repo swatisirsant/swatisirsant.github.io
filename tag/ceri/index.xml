@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CERI | Swati Sirsant</title>
+    <link>https://swatisirsant.github.io/tag/ceri/</link>
+      <atom:link href="https://swatisirsant.github.io/tag/ceri/index.xml" rel="self" type="application/rss+xml" />
+    <description>CERI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://swatisirsant.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>CERI</title>
+      <link>https://swatisirsant.github.io/tag/ceri/</link>
+    </image>
+    
+    <item>
+      <title>Assessing the Performance of Surrogate Measures for Water Distribution Network Reliability</title>
+      <link>https://swatisirsant.github.io/publication/article_2020_1/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/article_2020_1/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+This paper investigates the use of surrogate measures as potential substitutes for reliability in multiobjective design of water distribution networks (WDNs). Assessing WDN reliability with conventional hydraulic and mechanical reliability metrics may require substantial computational time and resources, which becomes more critical as the network size increases. Although the reliability surrogate measures (RSMs) such as entropy, resiliency, and network resilience may have computational benefits, they may perform differently under varying cases of hydraulic and mechanical failures. To account for both the reliabilities, this study proposed two indices that weight a combination of entropy and resiliency (CERI), and entropy and network resilience (CENRI) apart from the individual measures, and then assessed their performance via multiobjective design for three benchmark WDNs and also for a case study in India. The study adopted the EPANET 2 hydraulic simulator for extended period simulation (EPS) and nondominated sorting genetic algorithm- II (NSGA-II) for the multiobjective optimization of WDNs with maximization of RSMs (one at a time) and minimization of cost as two objectives. Hydraulic and mechanical reliabilities are estimated for the generated Pareto-optimal solutions to determine the association between each RSM and hydraulic/mechanical reliability. The numerical results of the study show that the proposed RSMs can serve as effective surrogate measures to account for hydraulic and mechanical reliability in the design of WDNs. The study recommends the use of CERI as a potential substitute for traditional hydraulic and mechanical reliability metrics to speed up the reliability computation and ensure reliable water supply for both branched and looped WDNs.
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

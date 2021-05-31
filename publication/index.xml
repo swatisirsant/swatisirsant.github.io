@@ -5,12 +5,22 @@
     <link>https://swatisirsant.github.io/publication/</link>
       <atom:link href="https://swatisirsant.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://swatisirsant.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://swatisirsant.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Optimal Design of Pipe Networks Accounting for Future Demands and Phased Expansion using Integrated Dynamic Programming and Differential Evolution Approach</title>
+      <link>https://swatisirsant.github.io/publication/article_2021_1/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://swatisirsant.github.io/publication/article_2021_1/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+The water distribution network (WDN) design comprises determining optimal pipe sizes to achieve minimum cost pipe network to meet the required demands and performance levels. However, with time, the water demand for any region changes due to population, migration, and lifestyles, so interventions need to be made to the existing WDNs. Therefore, the capacity expansion problem consists of determining the suitable interventions at various stages such that the required demands are met at minimum cost. The present study proposed a novel methodology for planning such interventions based on Dynamic Programming (DP) formulation and presented a combined Self-Adaptive Differential Evolution and DP (SADE-DP) methodology for solving the WDN expansion problems considering life cycle costs. The methodology is applied and tested on three benchmark WDNs, namely New York Tunnel (NYT), Two loop (TL), and Blacksburg (BLA) networks, and also for a real case study of the Badlapur WDN in Maharashtra, India. The proposed model solutions are validated by comparing them with other WDN expansion methods taken from the literature. The results indicate that the proposed SADE-DP approach is computationally efficient and provides cost-effective solutions by meeting desired performance levels at various stages, and can serve as a potential alternative for solving real-world WDN expansion problems.
+&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>Assessing the Performance of Surrogate Measures for Water Distribution Network Reliability</title>
